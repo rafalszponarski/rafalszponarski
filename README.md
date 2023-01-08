@@ -5,6 +5,8 @@
 I'm an IT Systems Administrator, but I have always had a passion for cybersecurity in my heart.
 Here You can see some of my activity:
 
+- [Certificates and trainings archive](https://github.com/rafalszponarski/rafalszponarski/tree/master/Technical%20Certificates)
+
 
 - [HackTheBox](https://app.hackthebox.com/profile/220734) Pro Hacker and member of #4 team in the world, but #1 in Poland!
 
