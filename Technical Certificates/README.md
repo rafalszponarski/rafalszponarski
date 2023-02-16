@@ -11,7 +11,7 @@
 - [x] Jak skutecznie monitorować cyberbezpieczeństwo i od czego zacząć? (2022)
 
 
-- [x] Nie daj się cyberzbójom v2.0
+- [x] Nie daj się cyberzbójom v1 + v2
 
 
 - [x] OSINT/OPSEC: poszukiwanie informacji o osobach/firmach. Narzędzia, techniki śledcze, ochrona przed śledzeniem (2022)
