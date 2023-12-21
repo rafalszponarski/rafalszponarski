@@ -2,7 +2,22 @@
 
 ## Sekurak
 
-- [x] Dlaczego hackowanie aplikacji webowych jest proste? I jak jemu zapobiec? (2022)
+- [x] Bezpieczeństwo Windwos v1 + v2 (2023)
+
+
+- [x] Czy Pythonem można hackować wszystko? (2023)
+
+
+- [x] Dlaczego hackowanie aplikacji webowych jest proste? I jak jemu zapobiec? (2021)
+
+
+- [x] Dlaczego hackowanie aplikacji webowych jest proste? (2022)
+
+
+- [x] Dlaczego hackowanie sieci jest proste? (2023)
+
+
+- [x] Hackowanie vs. Sztuczna Inteligencja (2023)
 
 
 - [x] Jak ransomware dostaje się do firm? Oraz jak temu zapobiec? (2022)
@@ -11,13 +26,50 @@
 - [x] Jak skutecznie monitorować cyberbezpieczeństwo i od czego zacząć? (2022)
 
 
-- [x] Nie daj się cyberzbójom v1 + v2
+- [x] Jak sprawdzić czy mój windows jest zainfekowany? (2022)
+
+
+- [x] Narzędzia i techniki OSINT (2023)
+
+
+- [x] Nie daj się cyberzbójom v1 + v2 + v3 + v4 (2022 - 2023)
+
+
+- [x] Operowanie na bitach i bajtach (2023)
 
 
 - [x] OSINT/OPSEC: poszukiwanie informacji o osobach/firmach. Narzędzia, techniki śledcze, ochrona przed śledzeniem (2022)
 
 
-- [x] Wprowadzenie do OWASP Top Ten (edycja 2021) 
+- [x] PowerShell w bezpieczeństwie (2023)
+
+
+- [x] Poznaj bezpieczeństwo Windows 1 – usługi systemowe (2023)
+
+
+- [x] Poznaj bezpieczeństwo Windows 2 – lokalne uwierzytelnianie i autoryzacja (2023)
+
+
+- [x] Poznaj bezpieczeństwo Windows 3 – tajniki group policy (2023)
+
+
+- [x] Praktyczny OSSEC (2023)
+
+
+- [x] Praktyczny wireshark (2023)
+
+
+- [x] Wprowadzenie do bezpieczeństwa aplikacji WWW (2020)
+
+
+- [x] Wprowadzenie do bezpieczeństwa w Active Directory (2023)
+
+
+- [x] Wprowadzenie do OWASP Top Ten (edycja 2021)
+
+---
+
+- [x] Mega Sekurak Hacking Party 2023
 
 
 ## [TryHackMe](https://tryhackme.com/p/rafal301)
@@ -49,7 +101,7 @@
 - [x] Web Fundamentals
 
 
-## Centrum Usług Informatycznych
+## Centrum Usług Informatycznych Wrocław
 
 - [x] Python
 
