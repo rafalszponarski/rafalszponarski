@@ -2,7 +2,7 @@
 
 ## Sekurak
 
-- [x] Bezpieczeństwo Windwos v1 + v2 (2023)
+- [x] Bezpieczeństwo Windows v1 + v2 (2023)
 
 
 - [x] Czy Pythonem można hackować wszystko? (2023)
