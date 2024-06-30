@@ -7,7 +7,19 @@
 
 ---
 
+- [x] Analiza powłamaniowa w Linuksie (2024)
+
+
+- [x] Atak cold boot na żywo (2024)
+
+
 - [x] Bezpieczeństwo Windows v1 + v2 (2023)
+
+
+- [x] Bezpieczeństwo Active Directory II (2024)
+
+
+- [x] Co każdy sieciowiec powinien wiedzieć (2024)
 
 
 - [x] Czy Pythonem można hackować wszystko? (2023)
@@ -28,7 +40,13 @@
 - [x] Dlaczego hackowanie sieci jest proste? (2024)
 
 
+- [x] Hackowanie smart kontraktów (2024)
+
+
 - [x] Hackowanie vs. Sztuczna Inteligencja (2023)
+
+
+- [x] Infrastruktura klucza publicznego w systemach Windows v1 + v2 (2024)
 
 
 - [x] Jak ransomware dostaje się do firm? Oraz jak temu zapobiec? (2022)
@@ -37,7 +55,7 @@
 - [x] Jak skutecznie monitorować cyberbezpieczeństwo i od czego zacząć? (2022)
 
 
-- [x] Jak sprawdzić czy mój windows jest zainfekowany? (2022)
+- [x] Jak sprawdzić, czy mój windows jest zainfekowany? (2022)
 
 
 - [x] Narzędzia i techniki OSINT (2023)
@@ -47,6 +65,9 @@
 
 
 - [x] Operowanie na bitach i bajtach (2023)
+
+
+- [x] OSINTowanie na żywo (2024)
 
 
 - [x] OSINT/OPSEC: poszukiwanie informacji o osobach/firmach. Narzędzia, techniki śledcze, ochrona przed śledzeniem (2022)
@@ -67,16 +88,34 @@
 - [x] Praktyczny OSSEC (2023)
 
 
+- [x] Praktyczny rekonesans infrastruktury IT (2024)
+
+
+- [x] Praktyczny wazuh (2024)
+
+
 - [x] Praktyczny wireshark (2023)
 
 
+- [x] Socjotechnika w praktyce (2024)
+
+
 - [x] Wprowadzenie do bezpieczeństwa aplikacji WWW (2020)
+
+
+- [x] Wprowadzenie do bezpieczeństwa Linux (2024)
 
 
 - [x] Wprowadzenie do bezpieczeństwa w Active Directory (2023)
 
 
 - [x] Wprowadzenie do OWASP Top Ten (edycja 2021)
+
+
+- [x] Wstęp do bezpieczeństwa IoT (2024)
+
+
+- [x] Yubikeye od środka (2024)
 
 ---
 
