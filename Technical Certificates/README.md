@@ -2,6 +2,11 @@
 
 ## Sekurak
 
+
+- [x] Sekurak Academy 2023
+
+---
+
 - [x] Bezpieczeństwo Windows v1 + v2 (2023)
 
 
@@ -14,7 +19,13 @@
 - [x] Dlaczego hackowanie aplikacji webowych jest proste? (2022)
 
 
+- [x] Dlaczego hackowanie aplikacji webowych jest proste? (2024)
+
+
 - [x] Dlaczego hackowanie sieci jest proste? (2023)
+
+
+- [x] Dlaczego hackowanie sieci jest proste? (2024)
 
 
 - [x] Hackowanie vs. Sztuczna Inteligencja (2023)
