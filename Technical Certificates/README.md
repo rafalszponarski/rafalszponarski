@@ -13,10 +13,13 @@
 - [x] Atak cold boot na żywo (2024)
 
 
+- [x] Bezpieczeństwo aplikacji mobilnych (Android) (2024)
+
+
 - [x] Bezpieczeństwo Windows v1 + v2 (2023)
 
 
-- [x] Bezpieczeństwo Active Directory II (2024)
+- [x] Bezpieczeństwo Active Directory v1 + v2 + v3 (2024)
 
 
 - [x] Co każdy sieciowiec powinien wiedzieć (2024)
@@ -40,10 +43,10 @@
 - [x] Dlaczego hackowanie sieci jest proste? (2024)
 
 
-- [x] Hackowanie smart kontraktów (2024)
+- [x] Hackowanie smart kontraktów v1 + v2 (2024)
 
 
-- [x] Hackowanie vs. Sztuczna Inteligencja (2023)
+- [x] Hackowanie vs. Sztuczna Inteligencja v1 + v2 (2023-2024)
 
 
 - [x] Infrastruktura klucza publicznego w systemach Windows v1 + v2 (2024)
@@ -56,6 +59,9 @@
 
 
 - [x] Jak sprawdzić, czy mój windows jest zainfekowany? (2022)
+
+
+- [x] Model Bezpieczeństwa Przeglądarek Webowych (2024)
 
 
 - [x] Narzędzia i techniki OSINT (2023)
@@ -95,6 +101,9 @@
 
 
 - [x] Praktyczny wireshark (2023)
+
+
+- [x] Sekrety niebezpieczeństwa TPM (2024)
 
 
 - [x] Socjotechnika w praktyce (2024)
