@@ -131,6 +131,20 @@
 - [x] Mega Sekurak Hacking Party 2023
 
 
+## [HackTheBox](https://app.hackthebox.com/profile/220734)
+
+- [x] Dante
+
+
+- [x] Hades
+
+
+- [x] P.O.O.
+
+
+- [x] Xen
+
+
 ## [TryHackMe](https://tryhackme.com/p/rafal301)
 
 - [x] Advent of Cyber 2022
