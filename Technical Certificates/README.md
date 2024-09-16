@@ -1,4 +1,4 @@
-# Szkolenia w których wziąłem udział oraz zdobyte certyfikaty
+# Szkolenia, w których wziąłem udział, oraz zdobyte certyfikaty
 
 ## Sekurak
 
@@ -131,7 +131,7 @@
 - [x] Mega Sekurak Hacking Party 2023
 
 
-## [HackTheBox](https://app.hackthebox.com/profile/220734)
+## HackTheBox
 
 - [x] Dante
 
@@ -145,7 +145,7 @@
 - [x] Xen
 
 
-## [TryHackMe](https://tryhackme.com/p/rafal301)
+## TryHackMe
 
 - [x] Advent of Cyber 2022
 
