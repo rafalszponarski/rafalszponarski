@@ -8,10 +8,10 @@
 Feel free to explore my archive of [certificates and training] I've participated in
 
 🔐💣 **[HackTheBox]**: Achieved Guru rank  
-![HackTheBox](https://www.hackthebox.com/badge/image/220734)
+[![HackTheBox](https://www.hackthebox.com/badge/image/220734)][HackTheBox]
 
 🕵️‍♂️🏆 **[TryHackMe]**: Top 1% in the global rankings  
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/rafal301.png)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/rafal301.png)][TryHackMe]
 
 <br>
 
