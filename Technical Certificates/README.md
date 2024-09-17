@@ -195,3 +195,9 @@
 
 - [x] SQL
 
+
+## HackerRank
+
+- [x] Python (Basic)
+- [x] SQL (Basic)
+- [x] SQL (Intermediate)
