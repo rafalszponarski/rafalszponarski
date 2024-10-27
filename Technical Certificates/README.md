@@ -136,13 +136,22 @@
 - [x] Dante
 
 
+- [x] FullHouse
+
+
 - [x] Hades
 
 
 - [x] P.O.O.
 
 
+- [x] Rasta
+
+
 - [x] Xen
+
+
+- [x] Zephyr
 
 
 ## TryHackMe
