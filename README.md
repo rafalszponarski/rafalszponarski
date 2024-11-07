@@ -7,7 +7,7 @@
 🧑‍💻🎓 **Certificates and Training:**  
 Feel free to explore my archive of earned [certificates and training] I've participated in
 
-🔐💣 **[HackTheBox]**: Achieved Guru rank, Top 50 and Bug Killer badges
+🔐💣 **[HackTheBox]**: Achieved Guru rank, Top 50 and Bug Killer badges  
 [![HackTheBox](https://www.hackthebox.com/badge/image/220734)][HackTheBox]
 
 🕵️‍♂️🏆 **[TryHackMe]**: Top 1% in the global rankings  
