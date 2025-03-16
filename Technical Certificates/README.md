@@ -133,10 +133,22 @@
 
 ## HackTheBox
 
+- [x] Ascension
+
+
+- [x] Cybernetics
+
+
 - [x] Dante
 
 
 - [x] FullHouse
+
+
+- [x] Odyssey
+
+
+- [x] Offshore
 
 
 - [x] Hades
@@ -145,7 +157,10 @@
 - [x] P.O.O.
 
 
-- [x] Rasta
+- [x] RastaLabs
+
+
+- [x] RPG
 
 
 - [x] Xen
