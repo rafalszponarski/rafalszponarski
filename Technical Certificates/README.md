@@ -5,15 +5,27 @@
 
 - [x] Sekurak Academy 2023
 
+
+- [x] Sekurak Academu 2024
+
 ---
 
 - [x] Analiza powłamaniowa w Linuksie (2024)
+
+
+- [x] Architektura i działanie Internet Information Services (2024)
 
 
 - [x] Atak cold boot na żywo (2024)
 
 
 - [x] Bezpieczeństwo aplikacji mobilnych (Android) (2024)
+
+
+- [x] Bezpieczeństwo kontenerów (2024)
+
+
+- [x] Bezpieczeństwo systemu iOS (2024)
 
 
 - [x] Bezpieczeństwo Windows v1 + v2 (2023)
@@ -52,6 +64,9 @@
 - [x] Infrastruktura klucza publicznego w systemach Windows v1 + v2 (2024)
 
 
+- [x] Jak działają grupy APT (2024)
+
+
 - [x] Jak ransomware dostaje się do firm? Oraz jak temu zapobiec? (2022)
 
 
@@ -59,6 +74,9 @@
 
 
 - [x] Jak sprawdzić, czy mój windows jest zainfekowany? (2022)
+
+
+- [x] Miałem incydent! Analiza powłamaniowa w Windows (2024)
 
 
 - [x] Model Bezpieczeństwa Przeglądarek Webowych (2024)
@@ -70,7 +88,13 @@
 - [x] Nie daj się cyberzbójom v1 + v2 + v3 + v4 (2022 - 2023)
 
 
+- [x] Nowoczesny firewall (2024)
+
+
 - [x] Operowanie na bitach i bajtach (2023)
+
+
+- [x] Oprogramowanie jako produkt niebezpieczny (2024)
 
 
 - [x] OSINTowanie na żywo (2024)
@@ -89,6 +113,12 @@
 
 
 - [x] Poznaj bezpieczeństwo Windows 3 – tajniki group policy (2023)
+
+
+- [x] Praktyczne wprowadzenie do hackowania sprzętu v1 (2024)
+
+
+- [x] Praktyczne wprowadzenie do narzędzia Metasploit v1 (2024)
 
 
 - [x] Praktyczny OSSEC (2023)
@@ -112,7 +142,10 @@
 - [x] Wprowadzenie do bezpieczeństwa aplikacji WWW (2020)
 
 
-- [x] Wprowadzenie do bezpieczeństwa Linux (2024)
+- [x] Wprowadzenie do bezpieczeństwa Linux v1 + v2 (2024)
+
+
+- [x] Wprowadzenie do bezpieczeństwa SQL Server (2024)
 
 
 - [x] Wprowadzenie do bezpieczeństwa w Active Directory (2023)
@@ -121,7 +154,13 @@
 - [x] Wprowadzenie do OWASP Top Ten (edycja 2021)
 
 
+- [x] Wprowadzenie do tematyki ataków DDoS (2024)
+
+
 - [x] Wstęp do bezpieczeństwa IoT (2024)
+
+
+- [x] Zabezpieczanie Internet Information Server (2024)
 
 
 - [x] Yubikeye od środka (2024)
