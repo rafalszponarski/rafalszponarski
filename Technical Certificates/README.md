@@ -11,6 +11,7 @@
 
 - [x] Certified Junior Cybersecurity Associate [(CJCA)](https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f/certificate/HTBCERT-E6272502E1)
 
+####
 
 - [x] Ascension
 
