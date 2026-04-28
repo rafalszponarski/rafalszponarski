@@ -36,7 +36,7 @@
 
 - [x] Zephyr
 
-
+<br>
 
 ## TryHackMe
 
@@ -58,7 +58,7 @@
 
 - [x] Web Fundamentals
 
-
+<br>
 
 ## Sekurak
 
@@ -70,7 +70,7 @@
 
 - [ ] Sekurak Academy 2026
 
-
+<br>
 
 ## Centrum Usług Informatycznych Wrocław
 
@@ -78,7 +78,7 @@
 
 - [x] SQL
 
-
+<br>
 
 ## SoloLearn
 
@@ -90,7 +90,7 @@
 
 - [x] SQL
 
-
+<br>
 
 ## HackerRank
 
