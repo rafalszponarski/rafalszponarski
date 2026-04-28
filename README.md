@@ -7,7 +7,7 @@
 🧑‍💻🎓 **Certificates and Training:**  
 Feel free to explore my archive of earned [certificates and training] I've participated in
 
-🔐💣 **[HackTheBox]**: Achieved Guru rank, Top 50 and Bug Killer badges  
+🔐💣 **[HackTheBox]**: Achieved Guru rank, Grandmaster III, Top 50 and Bug Killer badges 
 [![HackTheBox](https://www.hackthebox.com/badge/image/220734)][HackTheBox]
 
 🕵️‍♂️🏆 **[TryHackMe]**: Top 1% in the global rankings  
@@ -20,6 +20,6 @@ Feel free to explore my archive of earned [certificates and training] I've parti
 
 
 [//]:#
-[HackTheBox]:<https://app.hackthebox.com/profile/220734>
+[HackTheBox]:<https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f>
 [TryHackMe]:<https://tryhackme.com/p/rafal301>
 [certificates and training]:<https://github.com/rafalszponarski/rafalszponarski/tree/main/Technical%20Certificates>
