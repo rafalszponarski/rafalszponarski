@@ -5,11 +5,11 @@
 ## HackTheBox
 
 
-- [x] Certified Penetration Testing Specialist [(CPTS)](https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f/certificate/HTBCERT-B99E6A003E)
+- [x] **Certified Penetration Testing Specialist [(CPTS)](https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f/certificate/HTBCERT-B99E6A003E)**
 
-- [x] Certified Web Exploitation Specialist [(CWES)](https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f/certificate/HTBCERT-C943635F24)
+- [x] **Certified Web Exploitation Specialist [(CWES)](https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f/certificate/HTBCERT-C943635F24)**
 
-- [x] Certified Junior Cybersecurity Associate [(CJCA)](https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f/certificate/HTBCERT-E6272502E1)
+- [x] **Certified Junior Cybersecurity Associate [(CJCA)](https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f/certificate/HTBCERT-E6272502E1)**
 
 ####
 
