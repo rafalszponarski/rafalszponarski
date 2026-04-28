@@ -72,6 +72,36 @@
 
 <br>
 
+## Red Team Leaders
+
+- [x] Certified Red Team Operations Management (CRTOM)
+
+- [x] Certified Cybersecurity Educator Professional (CCEP)
+
+<br>
+
+## Hyperskill
+
+- [x] Computer Algorithms and Data Structures
+
+- [x] Introduction to Command Line and Unix Shell
+
+- [x] Introduction to Git
+
+- [x] Introduction to SQL
+
+- [x] Python Core
+
+- [x] Python Developer
+
+- [x] Python Fundamentals with Practical Projects
+
+- [x] Python OOP
+
+- [x] SQL for Backend Developers
+
+<br>
+
 ## Centrum Usług Informatycznych Wrocław
 
 - [x] Python
@@ -97,10 +127,3 @@
 - [x] Python (Basic)
 - [x] SQL (Basic)
 - [x] SQL (Intermediate)
-
-<br>
-
-## Red Team Leaders
-
-- [x] Certified Red Team Operations Management (CRTOM)
-- [x] Certified Cybersecurity Educator Professional (CCEP)
