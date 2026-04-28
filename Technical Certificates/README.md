@@ -97,3 +97,10 @@
 - [x] Python (Basic)
 - [x] SQL (Basic)
 - [x] SQL (Intermediate)
+
+<br>
+
+## Red Team Leaders
+
+- [x] Certified Red Team Operations Management (CRTOM)
+- [x] Certified Cybersecurity Educator Professional (CCEP)
