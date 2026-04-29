@@ -21,7 +21,7 @@ The most important certifications:
 Feel free to explore my archive of earned [certificates and training] I've participated in
 
 
-🔐💣 **[HackTheBox]**: Achieved Guru rank, Grandmaster III, Top 50 and Bug Killer badges.
+🔐💣 **[HackTheBox]**: Achieved Guru rank, Grandmaster III, Top 50 and Bug Killer badges.  
 Also, I have completed 12 Pro Labs and all 6 Fortresses
 
 [![HackTheBox](https://www.hackthebox.com/badge/image/220734)][HackTheBox]
