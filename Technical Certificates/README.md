@@ -21,6 +21,8 @@
 
 - [x] FullHouse
 
+- [x] Mythical
+
 - [x] Odyssey
 
 - [x] Offshore
