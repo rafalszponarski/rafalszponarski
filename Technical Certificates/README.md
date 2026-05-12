@@ -21,13 +21,13 @@
 
 - [x] FullHouse
 
+- [x] Hades
+
 - [x] Mythical
 
 - [x] Odyssey
 
 - [x] Offshore
-
-- [x] Hades
 
 - [x] P.O.O.
 
@@ -49,7 +49,7 @@
 
 - [x] CompTIA PenTest+
 
-- [x] Cyber Defense 
+- [x] Cyber Defense
 
 - [x] Introduction to Cyber Security
 
@@ -77,9 +77,9 @@
 
 ## Red Team Leaders
 
-- [x] Certified Red Team Operations Management (CRTOM)
-
 - [x] Certified Cybersecurity Educator Professional (CCEP)
+
+- [x] Certified Red Team Operations Management (CRTOM)
 
 <br>
 
@@ -115,9 +115,9 @@
 
 ## SoloLearn
 
-- [x] Python Core
-
 - [x] Intermediate Python
+
+- [x] Python Core
 
 - [x] Python Data Structures
 
@@ -128,5 +128,7 @@
 ## HackerRank
 
 - [x] Python (Basic)
+
 - [x] SQL (Basic)
+
 - [x] SQL (Intermediate)
