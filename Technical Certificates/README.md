@@ -31,6 +31,8 @@
 
 - [x] P.O.O.
 
+- [x] Puppet
+
 - [x] RastaLabs
 
 - [x] RPG
