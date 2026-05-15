@@ -1,4 +1,4 @@
-# Szkolenia, w których wziąłem udział, oraz zdobyte certyfikaty
+# My Certifications & Training Archive
 
 <br>
 

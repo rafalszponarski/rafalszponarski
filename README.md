@@ -18,7 +18,7 @@ The most important certifications:
 <br>
 
 🧑‍💻🎓 **Certificates and Training:**  
-Feel free to explore my archive of earned [certificates and training] I've participated in
+Explore my [archive of certificates and training] I've completed
 
 
 🔐💣 **[HackTheBox]**: Achieved Guru rank, Grandmaster III, Top 50 and Bug Killer badges.  
@@ -40,4 +40,4 @@ Also, I have completed 12 Pro Labs and all 6 Fortresses
 [//]:#
 [HackTheBox]:<https://profile.hackthebox.com/profile/019c5c5c-7528-737e-ba50-89d55715671f>
 [TryHackMe]:<https://tryhackme.com/p/rafal301>
-[certificates and training]:<https://github.com/rafalszponarski/rafalszponarski/tree/main/Technical%20Certificates>
+[archive of certificates and training]:<https://github.com/rafalszponarski/rafalszponarski/tree/main/Technical%20Certificates>
