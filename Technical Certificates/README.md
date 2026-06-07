@@ -37,6 +37,8 @@
 
 - [x] RPG
 
+- [x] Wanderer
+
 - [x] Xen
 
 - [x] Zephyr
