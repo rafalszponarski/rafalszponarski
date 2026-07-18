@@ -15,6 +15,8 @@
 
 - [x] Ascension
 
+- [x] Control
+
 - [x] Cybernetics
 
 - [x] Dante
@@ -22,6 +24,14 @@
 - [x] FullHouse
 
 - [x] Hades
+
+- [x] Heron
+
+- [x] Intercept
+
+- [x] Kaiju
+
+- [x] Klendathu
 
 - [x] Mythical
 
@@ -33,9 +43,23 @@
 
 - [x] Puppet
 
+- [x] Push
+
 - [x] RastaLabs
 
+- [x] Reflection
+
 - [x] RPG
+
+- [x] Sidecar
+
+- [x] Tea
+
+- [x] Tengu
+
+- [x] Trusted
+
+- [x] Unintended
 
 - [x] Wanderer
 
