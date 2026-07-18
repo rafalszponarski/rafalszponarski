@@ -27,6 +27,8 @@
 
 - [x] Heron
 
+- [x] Ifrit
+
 - [x] Intercept
 
 - [x] Kaiju
