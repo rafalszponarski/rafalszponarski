@@ -93,6 +93,12 @@
 
 <br>
 
+## SecOps Group
+
+- [x] Certified Network Pentester (CNPen)
+
+<br>
+
 ## Sekurak
 
 - [x] Sekurak Academy 2023
