@@ -53,6 +53,8 @@
 
 - [x] RPG
 
+- [x] Shinra
+
 - [x] Sidecar
 
 - [x] Tea
