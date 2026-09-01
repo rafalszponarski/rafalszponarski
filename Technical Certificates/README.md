@@ -67,6 +67,8 @@
 
 - [x] Wanderer
 
+- [x] Wutai
+
 - [x] Xen
 
 - [x] Zephyr
