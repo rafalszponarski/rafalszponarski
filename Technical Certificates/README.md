@@ -115,6 +115,12 @@
 
 <br>
 
+## Cyberwarfare Labs
+
+- [x] Certified Red Team Analyst (CRTA)
+
+<br>
+
 ## Red Team Leaders
 
 - [x] Certified Cybersecurity Educator Professional (CCEP)
