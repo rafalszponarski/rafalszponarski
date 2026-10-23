@@ -121,6 +121,8 @@
 
 - [x] Certified Red Team Analyst (CRTA)
 
+- [x] Certified Cyber Security Analyst (C3SA)
+
 <br>
 
 ## Red Team Leaders
