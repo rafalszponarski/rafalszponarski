@@ -13,6 +13,8 @@
 
 ####
 
+- [x] Alchemy
+
 - [x] Ascension
 
 - [x] Control
